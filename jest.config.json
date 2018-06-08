@@ -1,0 +1,4 @@
+{
+  "setupFiles": ["./test/setupTests.js"],
+  "snapshotSerializers": ["enzyme-to-json/serializer"]
+}
